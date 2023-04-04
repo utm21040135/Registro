@@ -1,0 +1,65 @@
+
+body{
+    background-color:plum;
+    color:rgb(112, 32, 32);
+    height: 100px;
+  display: flex;
+  padding: 20px;
+}    
+form{
+    margin-top: 10px;
+    font-family: cursive;
+}
+
+.Register{
+  border-radius: 30px;
+  margin: auto;
+  height: 500px;
+  width: 400px;
+  padding: 50px 30px;
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/960/590/small/abstract-watercolor-texture-wallpaper-background-free-vector.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+h2{
+   border-bottom: 2px solid white;
+   padding-left: 10px;
+   font-size: 22px;
+   font-weight: 200;
+   margin-left: 20px; 
+   text-align: center;
+   font-family: cursive;
+}
+
+h2:hover{
+    color:slateblue;
+}
+.campo{
+    width: 90%;
+    border: none;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    background-color: bisque;
+    border: 2px solid rosybrown;
+    margin-top: 5px;
+    font-size: 15px;
+    background-size:cover;
+}
+
+.boton-ingresar{
+    font-size: 15px;
+    background-color: brown;
+    color: white;
+    width: 50%;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 10px;
+}
+.boton-ingresar:hover{
+    color: brown;
+    background-color: chocolate;
+}
